@@ -11,7 +11,7 @@
     src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"
   />
 </h1>
-<h3 font-size="20" align="center">A passionate UX and Frontend Developer.</h3>
+<h3 font-size="20" align="center">A passionate UX Developer.</h3>
 
 - I'm a freelancing web and mobile UX Developer with a passion for creating intuitive and visually appealing user experiences. My toolkit includes industry-standard software like Adobe XD, Figma, and Photoshop, which I leverage to craft seamless design prototypes and mockups. In addition to design tools, I'm proficient in coding and using VS Code to bring my designs to life by implementing responsive web and mobile interfaces. Furthermore, I incorporate my graphic design skills by utilizing Illustrator for vector graphics and even adding interactive animations using After Effects. With a comprehensive set of skills and tools, I'm dedicated to delivering exceptional user experiences for your web and mobile applications.
 
